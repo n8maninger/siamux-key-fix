@@ -1,5 +1,3 @@
-SiaMux Key Fix
-
 Fixes an issue with Sia hosts where the SiaMux public key will not be loaded from the host's public key after losing the siamux folder.
 
 # Usage
