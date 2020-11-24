@@ -6,6 +6,7 @@ Fixes an issue with Sia hosts where the SiaMux public key will not be loaded fro
 2. Stop Sia
 3. Find your Sia data path
 
+For Sia-UI these are the default paths. siad hosts should know where their consensus is already.
 + Linux: `$HOME/.config/Sia-UI/sia/`
 + Mac: `$HOME/Library/Application Support/Sia-UI/sia/`
 + Windows: `%APPDATA%\Sia-UI\sia\`
